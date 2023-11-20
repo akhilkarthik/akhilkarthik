@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
- I'm Akhil Karthik, a Data Science Enthusiast!
-
+I'm Akhil Karthik, a Data Science and ML Enthusiast!
 Welcome to my GitHub profile, where I explore the fascinating world of data and its endless possibilities.
 
 ## 🔧 My Skills
@@ -30,13 +28,5 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 I'm always open to collaboration and exploring new data-driven projects. Feel free to reach out!
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 📫 How to reach me: akhilkarthik0007@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
