@@ -38,6 +38,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Python lists,Dictionary,tuples](https://github.com/akhilkarthik/python-list)
 - [Python loops](https://github.com/akhilkarthik/python-loops)
 - [Python libraries](https://github.com/akhilkarthik/Python-libraries)
+- [Python oops concepts](https://github.com/akhilkarthik/Python-class-object)
 - 
 
 
