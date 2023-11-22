@@ -39,8 +39,14 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Python loops](https://github.com/akhilkarthik/python-loops)
 - [Python libraries](https://github.com/akhilkarthik/Python-libraries)
 - [Python oops concepts](https://github.com/akhilkarthik/Python-class-object)
-- 
-
+- [Basic python projects](https://github.com/akhilkarthik/python_basic_projects)
+- [Python_class_game](https://github.com/akhilkarthik/python_Class_game)
+- [Word cloud](https://github.com/akhilkarthik/word_cloud)
+- [Python calculater app](https://github.com/akhilkarthik/calculator)
+- [Chart extraction and visualization](https://github.com/akhilkarthik/chart_extraction-and-visualization)
+- [Dat science stages](https://github.com/akhilkarthik/Data_Science_stages)
+- [Data analysis using python](https://github.com/akhilkarthik/Data-Analysis-using-python)
+  
 
 ## 🌐 Connect with Me
 
