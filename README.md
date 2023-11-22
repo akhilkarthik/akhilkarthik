@@ -14,26 +14,26 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - Power BI
 
 ## 🚀 Projects
--Data science (python,sql,ML)
+#### Data science (python,sql,ML)
 
 - [Project 1: Spacex Falcon 9 First stage landing prediction](https://github.com/akhilkarthik/SpaceX-Falcon-9-first-stage-Landing-Prediction)
 - [Project 2: Chicago Public Schools Datsets Analysis](https://github.com/akhilkarthik/Analyzing-a-real-world-data-set-with-SQL-and-Python)
   
--Machine Learning
+#### Machine Learning
 - [Face detection](https://github.com/akhilkarthik/Face-detection)
 
--Sql
+#### Sql
 - [Pizza delivery database creation](https://github.com/akhilkarthik/pizza_delivery_database/tree/main)
 - [Covid Projects](https://github.com/akhilkarthik/Covid_Project)
 
--Python
+#### Python
 - [Bitcoin live chart](https://github.com/akhilkarthik/bitcoin_Live_chart)
 - [web browser](https://github.com/akhilkarthik/Web_browser)
 - [Satellite Tracking system](https://github.com/akhilkarthik/Satellite_tracking)
 - [Web scrapping](https://github.com/akhilkarthik/web_scrapping)
 - [Telegram bot](https://github.com/akhilkarthik/telegram_bot)
 
--Python tutorials
+#### Python tutorials
 - [Python basics](https://github.com/akhilkarthik/Python-basics)
 - [Python lists,Dictionary,tuples](https://github.com/akhilkarthik/python-list)
 - [Python loops](https://github.com/akhilkarthik/python-loops)
