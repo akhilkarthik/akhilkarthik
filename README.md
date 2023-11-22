@@ -19,7 +19,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
   
 - [Project 2: Chicago Public Schools Datsets Analysis](https://github.com/akhilkarthik/Analyzing-a-real-world-data-set-with-SQL-and-Python)
 
-- SQL
+-SQL
 - [Pizza delivery database creation](https://github.com/akhilkarthik/pizza_delivery_database/tree/main)
 - [Covid Projects](https://github.com/akhilkarthik/Covid_Project)
 
