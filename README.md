@@ -86,7 +86,3 @@ I'm always open to collaboration and exploring new data-driven projects. Feel fr
 
 
 ![](https://komarev.com/ghpvc/?username=akhilkarthik)
-
-![Your skills](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkarthik&show_icons=true&hide=contribs,prs&count_private=true&theme=radical&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
-
-![Your GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=akhilkarthik)
