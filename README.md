@@ -2,10 +2,11 @@
 <h1 style="font-size: 39px;">
  <p align="center">
  Hi there   <img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/2b361893-44a1-4d82-9cda-aaa941056b7b" width="40" height="45">
-</h1>
+
 
 I'm Akhil Karthik, a Data Science and ML Enthusiast!
 </p>
+</h1>
 Welcome to my GitHub profile, where I explore the fascinating world of data and its endless possibilities.
 
 <p align="center">
