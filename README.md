@@ -27,7 +27,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Covid Projects](https://github.com/akhilkarthik/Covid_Project)
 
 #### sql tutorials
--[sql basics to advanced](https://github.com/akhilkarthik/sql_tutorial)
+- [sql basics to advanced](https://github.com/akhilkarthik/sql_tutorial)
 
 #### Python
 - [Bitcoin live chart](https://github.com/akhilkarthik/bitcoin_Live_chart)
