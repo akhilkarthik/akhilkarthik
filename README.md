@@ -26,6 +26,9 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Pizza delivery database creation](https://github.com/akhilkarthik/pizza_delivery_database/tree/main)
 - [Covid Projects](https://github.com/akhilkarthik/Covid_Project)
 
+#### sql tutorials
+-[sql basics to advanced](https://github.com/akhilkarthik/sql_tutorial)
+
 #### Python
 - [Bitcoin live chart](https://github.com/akhilkarthik/bitcoin_Live_chart)
 - [web browser](https://github.com/akhilkarthik/Web_browser)
@@ -46,6 +49,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Chart extraction and visualization](https://github.com/akhilkarthik/chart_extraction-and-visualization)
 - [Dat science stages](https://github.com/akhilkarthik/Data_Science_stages)
 - [Data analysis using python](https://github.com/akhilkarthik/Data-Analysis-using-python)
+
   
 
 ## 🌐 Connect with Me
