@@ -85,8 +85,8 @@ I'm always open to collaboration and exploring new data-driven projects. Feel fr
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilkarthik&show_icons=true&hide=contribs,prs&count_private=true&theme=radical&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 
 
-![](https://komarev.com/ghpvc/?username=akhilkarthik)
 
 
 ![](https://komarev.com/ghpvc/?username=akhilkarthik&color=brightgreen)
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=akhilkarthik&repo=your-repo)
