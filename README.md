@@ -82,3 +82,7 @@ I'm always open to collaboration and exploring new data-driven projects. Feel fr
 
 📫 How to reach me: akhilkarthik0007@gmail.com
 
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilkarthik&show_icons=true)
+
+
