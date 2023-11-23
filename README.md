@@ -73,16 +73,6 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 
 [LinkedIn](https://www.linkedin.com/in/akhilkarthikk/) | [Twitter](https://twitter.com/home)
 
-🕑︎ **Time Zone:** Asia/Dubai
-
-💬 ** Languages:**
-   - Python: 1 min   ![██████████████████████░░](https://www.python.org/static/img/python-logo.png) 92.75%
-   - SQL: 0 secs     ![██░░░░░░░░░░░░░░░░░░░](https://www.google.com/search?q=Microsoft+SQL+Server&sa=X&sca_esv=584864956&rlz=1C1ONGR_enIN1065IN1065&sxsrf=AM9HkKllOftMG34_5Plv7cR7knPGy44BCA:1700749830743&tbm=isch&source=iu&ictx=1&vet=1&fir=ru9L6HgdEzyPJM%252C9FGWSRfvCc19OM%252C%252Fm%252F0120vr&usg=AI4_-kRKD2LU3T0mpgtpnD9FfxO3wZ0Pvg&ved=2ahUKEwiilI3sqtqCAxUKz2EKHXHNDiQQ_B16BAhFEAI&biw=1536&bih=739&dpr=1.25#imgrc=ru9L6HgdEzyPJM) 07.25%
-
-🐱‍💻 **Projects:**
-   - swarm_ros2_interfaces: 1 min   ![██████████████████████░░](https://via.placeholder.com/150/92c6d7/000000?text=+) 92.75%
-   - swarm_triangulation: 0 secs    ![██░░░░░░░░░░░░░░░░░░░](https://via.placeholder.com/150/c44f4f/ffffff?text=+) 07.25%
-
 
 
 ## 👥 Let's Collaborate!
