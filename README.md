@@ -73,7 +73,8 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 
 [LinkedIn](https://www.linkedin.com/in/akhilkarthikk/) | [Twitter](https://twitter.com/home)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/akhilkarthikk/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/akhilkarthikk?style=social&color=1DA1F2&labelColor=000000)](https://twitter.com/akhilkarthikk)
+
 
 
 
