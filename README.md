@@ -7,7 +7,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 
 
 
-<img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/dc6a7745-4c45-4a91-b659-dfb1f4a74f30" width="200" height="390">
+<img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/dc6a7745-4c45-4a91-b659-dfb1f4a74f30" width="200" height="190">
 
 
 
