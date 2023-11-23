@@ -62,6 +62,8 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Dat science stages](https://github.com/akhilkarthik/Data_Science_stages)
 - [Data analysis using python](https://github.com/akhilkarthik/Data-Analysis-using-python)
 
+
+
 #### Sql tutorials
 - [sql basics to advanced](https://github.com/akhilkarthik/sql_tutorial)
 
