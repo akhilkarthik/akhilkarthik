@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi there,  <img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/2b361893-44a1-4d82-9cda-aaa941056b7b" width="40" height="45"> </h1>
-<h2
+<h2>
 I'm Akhil karthik </h2>
 
 
