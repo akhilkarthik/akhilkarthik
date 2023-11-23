@@ -1,7 +1,7 @@
 <p align="center">
     <font size="+2">
-< Hi there <img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/2b361893-44a1-4d82-9cda-aaa941056b7b" width="40" height="45">
- </font>
+< Hi there  </font> <img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/2b361893-44a1-4d82-9cda-aaa941056b7b" width="40" height="45">
+
 
 
 I'm Akhil Karthik, a Data Science and ML Enthusiast!
