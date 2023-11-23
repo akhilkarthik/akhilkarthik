@@ -3,7 +3,6 @@
 I'm Akhil karthik</h1>
 
 
-</h1>
 
 
 A Data Science and ML Enthusiast!
