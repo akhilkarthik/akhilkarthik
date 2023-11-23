@@ -73,6 +73,8 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 
 [LinkedIn](https://www.linkedin.com/in/akhilkarthikk/) | [Twitter](https://twitter.com/home)
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/akhilkarthikk/)
+
 
 
 ## 👥 Let's Collaborate!
@@ -89,4 +91,3 @@ I'm always open to collaboration and exploring new data-driven projects. Feel fr
 
 ![](https://komarev.com/ghpvc/?username=akhilkarthik&color=brightgreen)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=akhilkarthik&repo=your-repo)
