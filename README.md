@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi there,  <img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/2b361893-44a1-4d82-9cda-aaa941056b7b" width="40" height="45">  I'm Akhil karthik</h1>
 
- Hi there,   <img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/2b361893-44a1-4d82-9cda-aaa941056b7b" width="40" height="45">
 
 </h1>
 
-I'm Akhil Karthik
 
 A Data Science and ML Enthusiast!
 
