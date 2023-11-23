@@ -86,3 +86,7 @@ I'm always open to collaboration and exploring new data-driven projects. Feel fr
 
 
 ![](https://komarev.com/ghpvc/?username=akhilkarthik)
+
+
+![](https://komarev.com/ghpvc/?username=akhilkarthik&color=brightgreen)
+
