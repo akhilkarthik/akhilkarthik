@@ -5,8 +5,7 @@
 </h1>
 <h2 style="font-size: 30px;">
 I'm Akhil Karthik
-</h2>
-A Data Science and ML Enthusiast!
+</h2> A Data Science and ML Enthusiast!
 
 Welcome to my GitHub profile, where I explore the fascinating world of data and its endless possibilities.
 
