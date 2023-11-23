@@ -5,9 +5,8 @@ I'm Akhil Karthik, a Data Science and ML Enthusiast!
 Welcome to my GitHub profile, where I explore the fascinating world of data and its endless possibilities.
 
 
-![fc71635c7f1b09ed30413f59bb749582](https://github.com/akhilkarthik/akhilkarthik/assets/40953068/3252bf3b-2b8c-4dfb-b195-018d4c5e5e93=50x50)
 
-
+<img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/3252bf3b-2b8c-4dfb-b195-018d4c5e5e93" width="400" height="790">
 
 
 ## 🔧 My Skills
