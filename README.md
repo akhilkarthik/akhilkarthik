@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/2b361893-44a1-4d82-9cda-aaa941056b7b" width="100" height="190">
+<img src="https://github.com/akhilkarthik/akhilkarthik/assets/40953068/2b361893-44a1-4d82-9cda-aaa941056b7b" width="10" height="19">
 
 I'm Akhil Karthik, a Data Science and ML Enthusiast!
 
