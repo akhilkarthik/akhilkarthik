@@ -36,7 +36,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 
 #### Sql
 - [Pizza delivery database creation](https://github.com/akhilkarthik/pizza_delivery_database/tree/main)
-- [Covid Projects](https://github.com/akhilkarthik/Covid_Project)
+- [Covid Project](https://github.com/akhilkarthik/Covid_Project)
   
 #### Power bi
 - [grocery sales data Analysis](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis)
