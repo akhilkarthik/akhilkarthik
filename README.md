@@ -39,6 +39,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Covid Projects](https://github.com/akhilkarthik/Covid_Project)
   
 #### Power bi
+- [grocery sales data Analysis](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis)
 - [Professional Survey Power BI Analysis](https://github.com/akhilkarthik/professional_survey_powerbi)
 #### Python
 - [Bitcoin live chart](https://github.com/akhilkarthik/bitcoin_Live_chart)
