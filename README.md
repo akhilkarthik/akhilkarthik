@@ -28,8 +28,8 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 ## 🚀 Projects
 #### Data science (python,sql,ML)
 
-- [Project 1: Spacex Falcon 9 First stage landing prediction](https://github.com/akhilkarthik/SpaceX-Falcon-9-first-stage-Landing-Prediction)
-- [Project 2: Chicago Public Schools Datsets Analysis](https://github.com/akhilkarthik/Analyzing-a-real-world-data-set-with-SQL-and-Python)
+- [Spacex Falcon 9 First stage landing prediction](https://github.com/akhilkarthik/SpaceX-Falcon-9-first-stage-Landing-Prediction)
+- [Chicago Public Schools Datsets Analysis](https://github.com/akhilkarthik/Analyzing-a-real-world-data-set-with-SQL-and-Python)
   
 #### Machine Learning
 - [Face detection](https://github.com/akhilkarthik/Face-detection)
@@ -39,8 +39,8 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Covid Project](https://github.com/akhilkarthik/Covid_Project)
   
 #### Power bi
-- [grocery sales data Analysis](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis)
-- [Professional Survey Power BI Analysis](https://github.com/akhilkarthik/professional_survey_powerbi)
+- [Grocery store data Analysis](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis)
+- [Professional Survey Analysis](https://github.com/akhilkarthik/professional_survey_powerbi)
 #### Python
 - [Bitcoin live chart](https://github.com/akhilkarthik/bitcoin_Live_chart)
 - [web browser](https://github.com/akhilkarthik/Web_browser)
