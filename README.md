@@ -31,7 +31,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Chicago Public Schools Datsets Analysis](https://github.com/akhilkarthik/Analyzing-a-real-world-data-set-with-SQL-and-Python)
 #### Machine Learning
 - [Face detection](https://github.com/akhilkarthik/Face-detection)
-#### Sql
+#### SQL
 - [Pizza delivery database creation](https://github.com/akhilkarthik/pizza_delivery_database/tree/main)
 - [Covid Project](https://github.com/akhilkarthik/Covid_Project)
 #### Power bi
