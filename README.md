@@ -26,18 +26,14 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - Power BI
 
 ## 🚀 Projects
-#### Data science (python,sql,ML)
-
+#### Data science 
 - [Spacex Falcon 9 First stage landing prediction](https://github.com/akhilkarthik/SpaceX-Falcon-9-first-stage-Landing-Prediction)
 - [Chicago Public Schools Datsets Analysis](https://github.com/akhilkarthik/Analyzing-a-real-world-data-set-with-SQL-and-Python)
-  
 #### Machine Learning
 - [Face detection](https://github.com/akhilkarthik/Face-detection)
-
 #### Sql
 - [Pizza delivery database creation](https://github.com/akhilkarthik/pizza_delivery_database/tree/main)
 - [Covid Project](https://github.com/akhilkarthik/Covid_Project)
-  
 #### Power bi
 - [Grocery store data Analysis](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis)
 - [Professional Survey Analysis](https://github.com/akhilkarthik/professional_survey_powerbi)
@@ -47,7 +43,6 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Satellite Tracking system](https://github.com/akhilkarthik/Satellite_tracking)
 - [Web scrapping](https://github.com/akhilkarthik/web_scrapping)
 - [Telegram bot](https://github.com/akhilkarthik/telegram_bot)
-
 #### Python tutorials
 - [Python basics](https://github.com/akhilkarthik/Python-basics)
 - [Python lists,Dictionary,tuples](https://github.com/akhilkarthik/python-list)
@@ -61,9 +56,6 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Chart extraction and visualization](https://github.com/akhilkarthik/chart_extraction-and-visualization)
 - [Dat science stages](https://github.com/akhilkarthik/Data_Science_stages)
 - [Data analysis using python](https://github.com/akhilkarthik/Data-Analysis-using-python)
-
-
-
 #### Sql tutorials
 - [sql basics to advanced](https://github.com/akhilkarthik/sql_tutorial)
 
