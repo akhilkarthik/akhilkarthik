@@ -40,6 +40,10 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Advanced Power bi project_Spotify anlysis](https://github.com/akhilkarthik/Adavanced-Power-bi-project)
 - [Grocery store data Analysis](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis)
 - [Professional Survey Analysis](https://github.com/akhilkarthik/professional_survey_powerbi)
+
+#### Power bi
+- [Tableau Visualization Project](https://github.com/akhilkarthik/Tableau-Visualization-Project)
+  
 #### Python
 - [Bitcoin live chart](https://github.com/akhilkarthik/bitcoin_Live_chart)
 - [web browser](https://github.com/akhilkarthik/Web_browser)
