@@ -24,6 +24,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - Machine Learning
 - SQL
 - Power BI
+- Tableau
 
 ## 🚀 Projects
 #### Data science 
@@ -60,8 +61,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Data analysis using python](https://github.com/akhilkarthik/Data-Analysis-using-python)
 #### SQL tutorials
 - [SQL basics to advanced](https://github.com/akhilkarthik/sql_tutorial)
-
-  
+- [Sql_Intermediate](https://github.com/akhilkarthik/Sql_intermediate)
 
 ## 🌐 Connect with Me
 
