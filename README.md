@@ -41,7 +41,7 @@ Welcome to my GitHub profile, where I explore the fascinating world of data and 
 - [Grocery store data Analysis](https://github.com/akhilkarthik/Power-bi-Grocery-store-Data-Analysis)
 - [Professional Survey Analysis](https://github.com/akhilkarthik/professional_survey_powerbi)
 
-#### Power bi
+#### Tableau
 - [Tableau Visualization Project](https://github.com/akhilkarthik/Tableau-Visualization-Project)
   
 #### Python
